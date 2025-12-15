@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Custom CSV Reader and Writer
 
 ## Overview
@@ -46,3 +47,6 @@ python -m benchmark.benchmark
 
 ```
 
+=======
+# custom_csv_project
+>>>>>>> 8e5ffb72132ed8545892798695ccf83fb1c88b4b
